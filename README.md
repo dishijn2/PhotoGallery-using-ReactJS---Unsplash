@@ -1,6 +1,6 @@
 # PhotoGallery-using-ReactJS---Unsplash
 
--Features to build
+Features
 
 - Use the unsplash API to get the list of photos (https://unsplash.com/developers)
 
